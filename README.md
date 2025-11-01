@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Pedro
 
 ## Web Developer | Front-End | C/C++ Programmer
 
