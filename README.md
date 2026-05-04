@@ -1,5 +1,7 @@
 # Hi, I'm Pedro
 
+Sit omnia incipiunt et finem in Christo Iesu
+
 ## Web Developer | Front-End | C/C++ Programmer
 
 Welcome to my GitHub profile.  
